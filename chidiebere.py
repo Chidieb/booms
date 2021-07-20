@@ -272,13 +272,12 @@ def menu():
     print 47 * '-'
     print ' \x1b[1;93m Active token: \x1b[1;91m' + tok
     print ' ------------------------------------------ '
-    print '\x1b[1;92m[1] Crack with Auto password 10'
-    print '\x1b[1;92m[2] Crack with Name password'
-    print '\x1b[1;92m[3] Crack with Number password'
-    print '\x1b[1;92m[4] File Extract'
-    print '\x1b[1;92m[5] View token'
-    print '\x1b[1;92m[6] Logout'
-    print '\x1b[1;92m[7] Delete trash files'
+    print '\x1b[1;92m[1] Crack with Name password'
+    print '\x1b[1;92m[2] Crack with Number password'
+    print '\x1b[1;92m[3] File Extract'
+    print '\x1b[1;92m[4] View token'
+    print '\x1b[1;92m[5] Logout'
+    print '\x1b[1;92m[6] Delete trash files'
     menu_s()
 
 
